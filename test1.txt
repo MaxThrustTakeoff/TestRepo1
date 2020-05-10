@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 584A-0D69
-
- Directory of C:\Users\paper\OneDrive\My Documents - old\Computer Coding & Programming Stuff\-VSCode Intro Stuff\Practice Project
-
-05/09/2020  07:30 PM    <DIR>          .
-05/09/2020  07:30 PM    <DIR>          ..
-05/09/2020  07:30 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  1,501,760,028,672 bytes free
+change 1
